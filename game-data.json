@@ -50,7 +50,7 @@
   ],
   "monsters": [
     {
-      "id": "123",
+      "id": "m001",
       "name": "123",
       "desc": "",
       "hp": 100,
@@ -58,7 +58,33 @@
       "def": 0,
       "gold": 10,
       "exp": 20,
-      "iconAnimId": "",
+      "iconAnimId": "1",
+      "dropItemIds": [],
+      "note": ""
+    },
+    {
+      "id": "m002",
+      "name": "123(副本)",
+      "desc": "",
+      "hp": 100,
+      "atk": 10,
+      "def": 0,
+      "gold": 10,
+      "exp": 20,
+      "iconAnimId": "1",
+      "dropItemIds": [],
+      "note": ""
+    },
+    {
+      "id": "m003",
+      "name": "123(副本)",
+      "desc": "",
+      "hp": 100,
+      "atk": 10,
+      "def": 0,
+      "gold": 10,
+      "exp": 20,
+      "iconAnimId": "1",
       "dropItemIds": [],
       "note": ""
     }
